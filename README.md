@@ -1,5 +1,3 @@
-%%writefile /content/seasonal-agriculture-project/README.md
-
 # Seasonal Agriculture Performance Analysis
 
 ## Major Project – Data Visualization
